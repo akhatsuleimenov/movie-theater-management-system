@@ -1,0 +1,7 @@
+movie_screening_id,movie_name,number_of_guests,maximum_capacity,screening_date,screening_time,hall_name,list_of_guests
+1,Zoo,0,50,09-02-21,15:00,Hall-1,[]
+2,Dreamkatcher,0,50,09-02-21,16:00,Hall-2,[]
+3,Skyfire,0,50,10-02-21,12:00,Hall-1,[]
+4,Soul,0,50,09-10-21,17:00,Hall-3,[]
+5,Twist,0,50,09-02-21,18:00,Hall-2,[]
+6,Dreamkatcher,0,50,12-02-21,15:00,Hall-1,[]
